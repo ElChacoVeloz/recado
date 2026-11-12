@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>es</string>
+    <key>CFBundleExecutable</key>
+    <string>Recado</string>
+    <key>CFBundleIdentifier</key>
+    <string>me.recado.Recado</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Recado</string>
+    <key>CFBundleDisplayName</key>
+    <string>Recado</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>Recado necesita escribir en tus Recordatorios para guardar la tarea que le dictes.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Recado necesita escribir en tus Recordatorios para guardar la tarea que le dictes.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Recado necesita escribir eventos en tus Calendarios.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Recado necesita escribir eventos en tus Calendarios.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>zone_one_zero — Number One</string>
+</dict>
+</plist>
